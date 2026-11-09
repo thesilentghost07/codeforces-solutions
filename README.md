@@ -1,2 +1,0 @@
-# cf solutions
-codeforces solutions
