@@ -1,6 +1,14 @@
-.gitattributes
-README.md
-.gitattributes
+# Compiled binaries and debug symbols
+*.bin
+*.out
+*.exe
+*.o
 *.dSYM/
 vnkn
-README.md
+
+# macOS metadata
+.DS_Store
+
+# Editor / Tool configs
+.vscode/
+.cph/
